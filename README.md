@@ -23,3 +23,14 @@ MongoDB, Firebase, Strapi, and Tailwind CSS
 - 👯 I’m looking to collaborate on a Devops project
 - 📫 How to reach me: omartoumi158@gmail.com
 - ⚡ Fun fact: 🌍 I love exploring new cultures and have a goal to visit at least one new country every year.
+
+### 📫 Let's Connect!
+LinkedIn: https://www.linkedin.com/in/toumiomar
+![Alt linkfln]([image link](https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg)https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg)
+
+
+### 🚀 Skills
+
+
+
+
