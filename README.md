@@ -26,11 +26,7 @@ MongoDB, Firebase, Strapi, and Tailwind CSS
 
 ### 📫 Let's Connect!
 LinkedIn: https://www.linkedin.com/in/toumiomar
-https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg
-![Alt text](image https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg)
 
-
-### 🚀 Skills
 
 
 
