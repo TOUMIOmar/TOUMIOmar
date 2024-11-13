@@ -26,7 +26,7 @@
 </p>
 
 ### ⚡ Fun Fact
-🌍 I love exploring new cultures and aim to visit at least one new country every year.
+☕ Fun fact: I'm never without a coffee by my side while coding! My coworkers call me the caffeine addict—apparently, my code runs as smoothly as my coffee pours!
 
 ---
 
