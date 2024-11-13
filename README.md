@@ -1,33 +1,12 @@
-### Hi there 👋 I'am Omar TOUMI
+# Hi there 👋 I'm Omar TOUMI
 
-<!--
-**TOUMIOmar/TOUMIOmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on an innovative e-commerce website using Next.js, Node.js, Express, Three.js, and MongoDB. 
+This project will feature immersive UI elements like 3D product models and a 360-degree view of the boutique. 
+It also includes an admin dashboard with statistics and full control over the website. You can check it out when it goes live at [misterbouton.com](https://www.misterbouton.com/).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ecommerce website
-using the latest technologies, including Next.js 13,
-MongoDB, Firebase, Strapi, and Tailwind CSS
-- 🌱 I’m currently learning Devops
-- 👯 I’m looking to collaborate on a Devops project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: omartoumi158@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 🌍 I love exploring new cultures and have a goal to visit at least one new country every year.
--->
-- 🔭 I’m currently working on ecommerce website
-using the latest technologies, including Next.js 13,
-MongoDB, Firebase, Strapi, and Tailwind CSS
-- 🌱 I’m currently learning Devops
-- 👯 I’m looking to collaborate on a Devops project
-- 📫 How to reach me: omartoumi158@gmail.com
-- ⚡ Fun fact: 🌍 I love exploring new cultures and have a goal to visit at least one new country every year.
-
-### 📫 Let's Connect!
-LinkedIn: https://www.linkedin.com/in/toumiomar
-
-
-
-
-
+🌱 I’m currently learning DevOps  
+👯 I’m looking to collaborate on a DevOps project  
+📫 How to reach me: omartoumi158@gmail.com  
+⚡ Fun fact: 🌍 I love exploring new cultures and aim to visit at least one new country every year.  
+📫 Let's Connect!  
+[LinkedIn](https://www.linkedin.com/in/toumiomar)
