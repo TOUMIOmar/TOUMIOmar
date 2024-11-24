@@ -18,6 +18,10 @@
 👯 **Looking to collaborate on**: DevOps projects  
 
 ---
+### ⚡ Fun Fact
+☕ Fun fact: I'm never without a coffee by my side while coding! My coworkers call me the caffeine addict—apparently, my code runs as smoothly as my coffee pours!
+
+---
 
 ### 💬 Connect with Me
 <p align="center">
@@ -25,10 +29,7 @@
   <a href="https://www.linkedin.com/in/toumiomar"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-### ⚡ Fun Fact
-☕ Fun fact: I'm never without a coffee by my side while coding! My coworkers call me the caffeine addict—apparently, my code runs as smoothly as my coffee pours!
 
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/.../web-dev-animation.gif" width="600" alt="Web Developer Animation"> <!-- Add relevant GIF for web dev -->
